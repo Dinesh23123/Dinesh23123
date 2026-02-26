@@ -1,59 +1,62 @@
 <h1 align="center">Hi 👋, I'm Dinesh Sonawane</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1F6FA5&center=true&vCenter=true&lines=Python+Developer;Backend+Enthusiast;Computer+Science+Graduate;Open+to+Opportunities" />
+  Python Developer | Backend Enthusiast | Computer Science Graduate
 </p>
 
 ---
 
 ## 🚀 About Me
-🎓 Computer Science Graduate  
-💻 Python Developer with internship experience  
-🔍 Interested in Backend Development  
-📍 Nashik, India  
 
-I enjoy building structured Python applications and solving real-world problems using clean and modular code.
+Computer Science graduate with hands-on experience in Python development through industry internships.  
+I enjoy building structured backend logic, CLI-based applications, and solving real-world problems using clean and modular code.
 
----
-
-## 🛠 Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
-</p>
-
-- Python  
-- OOP & Data Structures  
-- File Handling  
-- CLI Application Development  
+Currently seeking entry-level Python / Backend Developer opportunities.
 
 ---
 
-## 📌 Projects
+## 🛠 Technical Skills
 
-🔐 **Password Manager**  
-- Built using Python & file handling  
-- Search functionality & persistent storage  
-
-🧮 **CLI Calculator**  
-- Modular design  
-- Supports multiple operations  
+- **Programming:** Python  
+- **Core Concepts:** OOP, Data Structures, File Handling  
+- **Development:** CLI Applications, Debugging, Code Optimization  
+- **Tools:** Git, GitHub, VS Code, Command Line  
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Internship Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
-</p>
+### 🏢 Python Developer Intern — Bitspark Technologies (Jan 2026 – Feb 2026)
+- Developed Python-based console applications
+- Implemented file handling for persistent data storage
+- Applied OOP principles and modular programming
+- Built menu-driven CLI systems simulating real workflows
+
+### 🏢 Software Developer Intern — Humming Byte Technologies (Feb 2025 – Jul 2025)
+- Assisted in software development tasks under mentorship
+- Participated in debugging, testing, and improving program logic
+- Gained exposure to development workflows and coding standards
+
+---
+
+## 📌 Featured Projects
+
+### 🔐 Password Manager
+- CLI-based password manager using Python
+- Implemented file storage and search functionality
+- Designed structured menu-driven interface
+
+### 🧮 CLI Calculator
+- Supports multiple arithmetic operations
+- Built using modular functions and clean logic design
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/dinesh-sonawane-371aa3293
+- LinkedIn: www.linkedin.com/in/dinesh-sonawane-371aa3293 
 - Email: sonwanedinesh2310@gmail.com  
 
 ---
 
-⭐ Always learning. Always building.
+⭐ Always learning and building.
