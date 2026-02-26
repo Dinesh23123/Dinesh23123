@@ -51,8 +51,8 @@ I enjoy building structured Python applications and solving real-world problems 
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/your-link  
-- Email: yourmail@gmail.com  
+- LinkedIn: www.linkedin.com/in/dinesh-sonawane-371aa3293
+- Email: sonwanedinesh2310@gmail.com  
 
 ---
 
